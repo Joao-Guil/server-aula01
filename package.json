@@ -22,17 +22,13 @@
     "email": "",
     "url": ""
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
-    "dev": "",
+    "dev": "node --watch --env-file=.env server.js",
     "test": ""
   },
   "dependencies": {
-
-  },
-  "devDependencies": {
-
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
   }
 }
