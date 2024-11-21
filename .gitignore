@@ -1,3 +1,4 @@
 node_modules
 apiKey.txt
 .env
+uploads/*
