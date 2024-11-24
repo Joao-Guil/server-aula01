@@ -33,7 +33,6 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "fs": "^0.0.1-security",
-    "generative-ai": "^0.1.4",
     "mongodb": "^6.10.0",
     "multer": "^1.4.5-lts.1"
   }
